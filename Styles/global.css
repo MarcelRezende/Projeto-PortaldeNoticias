@@ -10,15 +10,15 @@
 
 
     /* BACKGROUND COLOR */
---background-color: #0F172A;
---stroke-color: #1E293B;
+    --background-color: #0F172A;
+    --stroke-color: #1E293B;
 
-/* TEXTS */
+    /* TEXTS */
 
---text-color-primary: #F1F5F1;
---text-color-secondary: #CBD5E1;
+    --text-color-primary: #F1F5F1;
+    --text-color-secondary: #CBD5E1;
 
---heading-one: 24px/135% "Archivo", sans-serif;
+    --heading-one: 24px/135% "Archivo", sans-serif;
 
 
 }
