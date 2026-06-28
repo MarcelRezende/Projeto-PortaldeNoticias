@@ -13,10 +13,8 @@ Uma landing page moderna de um portal de notícias sobre tecnologia, desenvolvid
 
 - Destaque para notícia principal
 - Categorias de tecnologia
-- Barra de pesquisa
 - Cards de notícias
 - Layout responsivo
-- Tema escuro
 
 📸 Preview
 
